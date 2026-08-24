@@ -7,6 +7,8 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import com.google.android.material.snackbar.Snackbar
+
 
 class LoginActivity : AppCompatActivity() {
     val TAG= "LoginActivity"
@@ -53,6 +55,6 @@ class LoginActivity : AppCompatActivity() {
     }
     fun display(msg:String){
         Log.i(TAG, msg)
-        Toast.makeText(this, "msg", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this,    msg, Toast.LENGTH_SHORT).show()
     }
 }
