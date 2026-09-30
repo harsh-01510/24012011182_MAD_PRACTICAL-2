@@ -31,4 +31,5 @@ The application consists of two main activities:
 - **Components**: `Log.i` for logging, `Toast` for UI notifications.
 
 ---
-*Developed as part of the MAD Practical Course.*
+OUTPUT
+<img src="app/src/main/res/drawable/OUTPUT.png" width="500" alt="Unified Directory Card Layout" />
