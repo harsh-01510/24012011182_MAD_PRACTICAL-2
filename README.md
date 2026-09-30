@@ -32,4 +32,6 @@ The application consists of two main activities:
 
 ---
 OUTPUT
+
+
 <img src="app/src/main/res/drawable/OUTPUT.png" width="500" alt="Unified Directory Card Layout" />
